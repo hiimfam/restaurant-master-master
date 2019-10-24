@@ -1,0 +1,71 @@
+body {
+    background-color: rgba(175, 179, 171, 0.47);
+    font-family: 'Source Sans Pro', sans-serif;
+}
+article {
+    height: 600px;
+    width: 300px;
+    padding-top: 50px;
+    margin-left: 200px;
+
+    float: left;
+
+}
+
+aside{
+    height: 800px;
+    width: 700px;
+    float: right;
+
+    padding-top: 60px;
+}
+li {
+    padding-top: 40px;
+    padding-right: 180px;
+    font-size: 24px;
+}
+footer {
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: #9b0000;
+    height: 150px;
+    padding-left: 100px;
+    padding-top: 30px;
+    clear: both;
+
+}
+nav {
+    background-color: black;
+    width: auto;
+    height: 120px;
+    text-align: right;
+
+}
+p {
+    font-size: 16px;
+    color: #555555;
+}
+h1 {
+    font-size: 26px;
+    color: #555555;
+}
+
+h2 {
+    font-size: 14px;
+    font-style: italic;
+    color: #555555;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    padding-left: 30px;
+}
+
+h3 {
+    font-size: 20px;
+    color: white;
+}
+
+#contact {
+    color: white;
+}
